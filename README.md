@@ -3,7 +3,7 @@
 I am Creative developer focused on creating immersive, interactive experiences on the web. I actualize solutions by transforming ideas to implementations and I have extensive experience working with HTML, CSS(SASS). 
 
 <ul>
-  <li>I'm available for opportunities to learn</li>
+  <li>I'm available for opportunities to keep learn</li>
   <li>I can be reached at: <a href="mailto:samueljolayemi@gmail.com?subject=Hi there, I/We have a project, ____, we want you to work on. Reply this mail to discuss further.">samueljolayemi@gmail.com</a></li>
 </ul>
 
