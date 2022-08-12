@@ -4,7 +4,7 @@ I am Creative developer focused on creating immersive, interactive experiences o
 
 <ul>
   <li>I'm available for opportunities to use my skills for the next big challenge</li>
-  <li>I can be reached at: <a href="mailto:samueljolayemi@gmail.com?subject=Hi there, I/We have a project, ____, we want you to work on. Reply this mail to discuss further.">samueljolayemi@gmail.com</a></li>
+  <li>I can be reached at: <a href="mailto:samueljolayemi4@gmail.com?subject=Hi there, I/We have a project, ____, we want you to work on. Reply this mail to discuss further.">samueljolayemi@gmail.com</a></li>
 </ul>
 
 
